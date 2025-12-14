@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Language](https://img.shields.io/badge/Language-Verilog_HDL-007ACC?style=for-the-badge&logo=verilog&logoColor=white)
+![Language](https://img.shields.io/badge/Language-SystemVerilog-007ACC?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![Tool](https://img.shields.io/badge/Tool-Vivado-FF5252?style=for-the-badge&logo=xilinx&logoColor=white)
 [![EDA Playground](https://img.shields.io/badge/Simulation-EDA_Playground-1abc9c?style=for-the-badge)](https://www.edaplayground.com/x/EXAMPLE)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Bilinear_Interpolation-blue?style=for-the-badge)
